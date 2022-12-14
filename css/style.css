@@ -1,4 +1,7 @@
 body{
   color: black;
   background-color: darkred;
+  font-family: verdana;
+  font-size: 120%;
+  text-decoration: underline;
 }
